@@ -1,0 +1,6 @@
+[submodule "crypto-scope-backend"]
+	path = crypto-scope-backend
+	url = git@github.com:Jud4spriest/crypto-scope-backend.git
+[submodule "crypto-scope-frontend"]
+	path = crypto-scope-frontend
+	url = git@github.com:Jud4spriest/crypto-scope-frontend.git
